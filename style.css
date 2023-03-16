@@ -1,0 +1,31 @@
+button{
+    margin-top: 50px;
+    transform: scale(2);
+    padding: 5px;
+    border-radius: 7px;
+    background-color: #a2d2ff;
+    border: 1px solid #a2d2ff;
+}
+
+button:hover{
+    transform: scale(2.2);
+    transition: 0.2s;
+}
+
+body{
+    background-color: #ffc8dd;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+    border: 1px solid #e76f51;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #e76f51;
+    color: white;
+    font-size: 25px;
+}
